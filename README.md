@@ -25,7 +25,7 @@ Siga as instruções de instalação do Go disponíveis [aqui](https://golang.or
 Clone o repositório contendo o código da aplicação:
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/KievKiss/Busca-IP-e-nomes-de-servidores-publicos-na-internet.git
 ```
 
 ### Compilação e Execução
